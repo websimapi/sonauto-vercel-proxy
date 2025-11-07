@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/sonauto/:path*",
+      "destination": "/api/sonauto"
+    }
+  ]
+}
