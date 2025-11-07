@@ -3,6 +3,10 @@
     {
       "source": "/api/sonauto/:path*",
       "destination": "/api/sonauto"
+    },
+    {
+      "source": "/api/auth/:path*",
+      "destination": "/api/auth"
     }
   ]
 }
